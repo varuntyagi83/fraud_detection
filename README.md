@@ -1,2 +1,2 @@
 # Online-Lottery-Fraud-Detection.
-It consists of various python scripts used for fraud detection 
+https://medium.com/@varun.tyagi83/safeguarding-the-jackpot-building-a-robust-fraud-detection-model-for-online-lotteries-using-24bc144e946c
